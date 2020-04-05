@@ -2,7 +2,7 @@
 
 ### Bug Fixes
 
-* Correct the version number for unpkg in the documentation ([a74a4d4](https://github.com/prantlf/trouter-paths/commit/a74a4d442c36cbbc61d9d67bb837c5dd196ea995))
+* Correct the version number for unpkg in the documentation ([a74a4d4](https://github.com/prantlf/trouter-paths/commit/2f1921b1e68e1f9f4f14966510e13191e6b8f514))
 
 # [1.2.0](https://github.com/prantlf/trouter-paths/compare/ca4c61d11f538218680b11982211af427f794d32...v1.2.0) (2020-04-05)
 
