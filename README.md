@@ -1,7 +1,5 @@
 # trouter-paths
 
-[![Build Status](https://badgen.now.sh/travis/prantlf/trouter-paths)](https://travis-ci.org/prantlf/trouter-paths)
-
 [![NPM version](https://badge.fury.io/js/trouter-paths.png)](http://badge.fury.io/js/trouter-paths)
 [![Build Status](https://badgen.now.sh/travis/prantlf/trouter-paths)](https://travis-ci.org/prantlf/trouter-paths)
 [![codecov](https://codecov.io/gh/prantlf/trouter-paths/branch/master/graph/badge.svg)](https://codecov.io/gh/prantlf/trouter-paths)
