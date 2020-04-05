@@ -1,5 +1,7 @@
 {
   "devDependencies": {
-    "benchmark": "^2.1.4"
+    "benchmark": "2.1.4",
+    "trouter": "3.1.0",
+    "wayfarer": "7.0.1"
   }
 }
