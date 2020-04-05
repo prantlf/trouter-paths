@@ -1,6 +1,6 @@
 {
   "name": "trouter-paths",
-  "version": "1.2.0",
+  "version": "0.0.0-development",
   "description": "A fast, small-but-mighty, familiar ~fish~ router for paths only",
   "homepage": "https://github.com/prantlf/trouter-paths",
   "author": {
