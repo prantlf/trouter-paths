@@ -23,7 +23,7 @@ $ npm install --save trouter-paths
 If you write a pure web page:
 
 ```html
-<script src="https://unpkg.com/trouter-paths@1.0.0/dist/index.umd.js"></script>
+<script src="https://unpkg.com/trouter-paths@1.2.1/dist/index.umd.js"></script>
 ```
 
 ## Usage
@@ -62,7 +62,7 @@ router.find('/foo');
 If you write a pure web page:
 
 ```html
-<script src="https://unpkg.com/trouter-paths@1.0.0/dist/index.umd.js"></script>
+<script src="https://unpkg.com/trouter-paths@1.2.1/dist/index.umd.js"></script>
 <script>
 const router = new trouterPaths.Trouter();
 // The usage is the same as in the example for Node.js above.
