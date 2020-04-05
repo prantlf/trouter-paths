@@ -1,5 +1,5 @@
 import { test, Test } from 'tape';
-import Trouter from '../index';
+import Trouter from '../index'; // eslint-disable-line import/no-duplicates
 import TrouterDefault from '..'; // eslint-disable-line import/no-duplicates
 
 const noop = () => {};
